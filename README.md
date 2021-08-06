@@ -11,7 +11,8 @@ This project was created using React, React Redux, Node, Express and MongoDB. It
 ### Set your .env variables
 
 `PORT=<port_number>`\
-`DB_CONN=<connection_string>`
+`DB_CONN=<connection_string>`\
+`SECRET_JWT_SEED=<jwt_secret_key>`
 
 ## Available Scripts
 
